@@ -12,15 +12,15 @@
 	color:red
 }
 li:first-child{
-	background-color:white;
+	background-color:white !important;
 }
 li:last-child{
-	background-color:white
+	background-color:white !important;
 }
 li:nth-child(even){
 	background-color:gray;
 }
-li:nth-child(3){
+li:nth-child(odd){
 	background-color:pink;	
 }
 
