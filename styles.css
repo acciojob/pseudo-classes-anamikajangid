@@ -20,7 +20,7 @@ li:last-child{
 li:nth-child(even){
 	background-color:gray;
 }
-li:root{
+li:nth-child(3){
 	background-color:pink;	
 }
 
